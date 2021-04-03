@@ -1,4 +1,4 @@
-![Chuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptienchuan&show_icons=true&theme=gruvbox)
+![Chuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptienchuan&show_icons=true&theme=vue-dark)
 
 - 👋 Hi, I’m @ptienchuan
 - 👀 I’m interested in ...
